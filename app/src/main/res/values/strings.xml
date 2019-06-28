@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Перехват событий на элементах часть 1</string>
+    <string name="textMenuOpenNotes">Записная книжка</string>
+    <string name="app_name_notes">Записная книжка в SharedPreferences</string>
+    <string name="textBtnSaveNote">Сохранить</string>
+    <string name="textInputNote">Текст заметки</string>
+    <string name="textMyNote">MyNote</string>
+    <string name="textMessageSave">данные сохранены</string>
+    <string name="app_name_calendar">CalendarView «Сроки задачи»</string>
+    <string name="textChooseStartDate">Дата-время старта задачи:</string>
+    <string name="textChooseEndDate">Дата-время окончания задачи:</string>
+    <string name="textBtnOK">OK</string>
+    <string name="textBtnClear">Clear</string>
+    <string name="textBtnChooseStartDate">Дата-время старта задачи: %1$s</string>
+    <string name="textBtnChooseEndDate">Дата-время окончания задачи: %1$s</string>
+    <string name="textError">Ошибка</string>
+    <string name="textMessageChoseDate">старт: %1$s окончаниe: %2$s</string>
+    <string name="formatDate">%1$d - %2$d - %3$d</string>
+    <string name="textMenuCalendar">CalendarView «Сроки задачи»</string>
+    <string name="textMenuSpinner">Spinner «Страны-города-улицы»</string>
+    <string name="app_name_spinner">Spinner «Страны-города-улицы»</string>
+    <string name="textShowAddressBtn">Показать адрес</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+    <string name="textMenuCheckBox">Взаимоисключающие CheckBox</string>
+    <string name="app_name_checkbox">Взаимоисключающие CheckBox</string>
+    <string name="hintInputMoney">Ввод денег</string>
+    <string name="hintInputInfo">Информация об оплате</string>
+    <string name="textBankCardChkBx">С банковской карты</string>
+    <string name="textMobilePhoneChkBx">С мобильного телефона</string>
+    <string name="textCashAddressChkBx">Наличными по адресу</string>
+    <string name="textMessageErrorNotSumma">Сумма для оплаты не введена</string>
+    <string name="textMessageErrorNotChecked">Не выбран вариант оплаты!</string>
+    <string name="textMessageBankCard">Оплата %1$.2f будет осуществлена с карты</string>
+    <string name="textMessageMobilePhone">Оплата %1$.2f будет осуществена с мобильного телефона</string>
+    <string name="textMessageCashAddress">Оплата %1$.2f с помощью налички при получении</string>
+    <string name="textButtonAdd">Добавить</string>
+    <string name="textButtonExit">Выход</string>
+    <string name="buttonAdd">Add</string>
+    <string name="textLesson">Урок № %d</string>
+    <string name="textTheme">Тема # %d.1</string>
+    <string name="textSample">%s $ %s;</string>
+</resources>
